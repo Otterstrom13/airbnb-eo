@@ -5,3 +5,5 @@
 -- +----------+
 
 
+SELECT Count() 
+FROM reviews
